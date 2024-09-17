@@ -1,0 +1,215 @@
+﻿Diagnose log at 2024-09-17T20:01:34Z
+
+AppPath: D:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\Program Files\Git\mingw64\bin\
+Version: 2.5.1+90d5f897f164a8fe07d2aa3bf7db439b0b4e03ea
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\zjink
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=INKSTERPC
+MSYSTEM=MINGW64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\zjink\OneDrive
+ChocolateyLastPathUpdate=132579861065580535
+ProgramFiles(x86)=C:\Program Files (x86)
+CONFIG_SITE=D:/Program Files/Git/etc/config.site
+LC_CTYPE=en_US.UTF-8
+USERDOMAIN=INKSTERPC
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+ORIGINAL_TEMP=C:/Users/zjink/AppData/Local/Temp
+MINGW_PREFIX=D:/Program Files/Git/mingw64
+GIT_EXEC_PATH=D:/Program Files/Git/mingw64/libexec/git-core
+ACLOCAL_PATH=D:\Program Files\Git\mingw64\share\aclocal;D:\Program Files\Git\usr\share\aclocal
+TEMP=C:\Users\zjink\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\zjink\AppData\Local
+MANPATH=D:\Program Files\Git\mingw64\local\man;D:\Program Files\Git\mingw64\share\man;D:\Program Files\Git\usr\local\man;D:\Program Files\Git\usr\share\man;D:\Program Files\Git\usr\man;D:\Program Files\Git\share\man
+TERM=xterm
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+MSYSTEM_CARCH=x86_64
+PROGRAMFILES=C:\Program Files (x86)
+ProgramData=C:\ProgramData
+TERM_PROGRAM_VERSION=3.7.4
+ORIGINAL_TMP=C:/Users/zjink/AppData/Local/Temp
+PROCESSOR_REVISION=9e0a
+SYSTEMROOT=C:\WINDOWS
+TERM_PROGRAM=mintty
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=12
+SSH_ASKPASS=D:/Program Files/Git/mingw64/bin/git-askpass.exe
+SHLVL=1
+APPDATA=C:\Users\zjink\AppData\Roaming
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+HOSTNAME=InksterPC
+PKG_CONFIG_PATH=D:\Program Files\Git\mingw64\lib\pkgconfig;D:\Program Files\Git\mingw64\share\pkgconfig
+MSYSTEM_CHOST=x86_64-w64-mingw32
+WINDIR=C:\WINDOWS
+PLINK_PROTOCOL=ssh
+INFOPATH=D:\Program Files\Git\mingw64\local\info;D:\Program Files\Git\mingw64\share\info;D:\Program Files\Git\usr\local\info;D:\Program Files\Git\usr\share\info;D:\Program Files\Git\usr\info;D:\Program Files\Git\share\info
+MSYS=disable_pcon
+PATH=D:/Program Files/Git/mingw64/libexec/git-core;C:\Users\zjink\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\local\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\zjink\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\dotnet;C:\Users\zjink\AppData\Local\Programs\Python\Python39\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;D:\ProgrammingStuff;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Users\paher\Desktop\VideoGameDataTracker\venv\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\WINDOWS\Syst;C:\Users\zjink\AppData\Local\Microsoft\WindowsApps;C:\Users\zjink\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zjink\.dotnet\tools;C:\Users\zjink\AppData\Roaming\npm;D:\Program Files\Git\usr\bin\vendor_perl;D:\Program Files\Git\usr\bin\core_perl
+ChocolateyInstall=C:\ProgramData\chocolatey
+QT_SCALE_FACTOR_ROUNDING_POLICY=RoundPreferFloor
+GIT_TRACE2_PARENT_SID=e9ee23e0-87fb-4b11-bb15-d2a870b3d9a3
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=D:/Program Files/Git/mingw64/lib
+TMPDIR=C:\Users\zjink\AppData\Local\Temp
+TMP=C:\Users\zjink\AppData\Local\Temp
+SHELL=D:\Program Files\Git\usr\bin\bash.exe
+HOME=C:\Users\zjink
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+LOGONSERVER=\\INKSTERPC
+USERPROFILE=C:\Users\zjink
+DISPLAY=needs-to-be-defined
+COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+_=D:/Program Files/Git/mingw64/bin/git
+USERDOMAIN_ROAMINGPROFILE=INKSTERPC
+CommonProgramW6432=C:\Program Files\Common Files
+HOMEDRIVE=C:
+MSYSTEM_PREFIX=D:/Program Files/Git/mingw64
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+SESSIONNAME=Console
+PWD=D:/CodeProjects/PracticeProblems
+EXEPATH=D:\Program Files\Git
+USERNAME=zjink
+PROCESSOR_ARCHITEW6432=AMD64
+ORIGINAL_PATH=D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\zjink\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\dotnet;C:\Users\zjink\AppData\Local\Programs\Python\Python39\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;D:\ProgrammingStuff;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Users\paher\Desktop\VideoGameDataTracker\venv\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\WINDOWS\Syst;C:\Users\zjink\AppData\Local\Microsoft\WindowsApps;C:\Users\zjink\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zjink\.dotnet\tools;C:\Users\zjink\AppData\Roaming\npm
+PROCESSOR_ARCHITECTURE=x86
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+OS=Windows_NT
+ProgramW6432=C:\Program Files
+MINGW_CHOST=x86_64-w64-mingw32
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=D:/Program Files/Git/mingw64/include
+OneDriveConsumer=C:\Users\zjink\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\zjink\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\zjink\AppData\Local\Temp\307f4e37874290eab72a3b65'... OK
+Reading from temporary file 'C:\Users\zjink\AppData\Local\Temp\307f4e37874290eab72a3b65'... OK
+Deleting temporary file 'C:\Users\zjink\AppData\Local\Temp\307f4e37874290eab72a3b65'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\zjink
+UserDataDirectoryPath: C:\Users\zjink\.gcm
+GetCurrentDirectory(): D:\CodeProjects\PracticeProblems
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:52346/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.46.0.windows.1'
+Locating current repository...Git repository at 'D:/CodeProjects/PracticeProblems/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:D:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:D:/Program Files/Git/etc/gitconfig	http.sslcainfo=D:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:D:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:D:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:D:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:D:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:D:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:D:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/zjink/.gitconfig	user.name=zinksterz
+file:C:/Users/zjink/.gitconfig	user.email=zehngameplay@gmail.com
+file:C:/Users/zjink/.gitconfig	credentials.helper=manager-core
+file:C:/Users/zjink/.gitconfig	credential.helper=manager-core
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/zinksterz/code-challenges.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: False
+Exception:
+GitCredentialManager.Interop.InteropException: Failed to write item to store. ---> System.ComponentModel.Win32Exception: Not enough memory resources are available to process this command
+   --- End of inner exception stack trace ---
+   at GitCredentialManager.Interop.Windows.Native.Win32Error.ThrowIfError(Int32 error, String defaultErrorMessage, ITrace2 trace2)
+   at GitCredentialManager.Interop.Windows.WindowsCredentialManager.AddOrUpdate(String service, String account, String secret)
+   at GitCredentialManager.CredentialStore.AddOrUpdate(String service, String account, String secret)
+   at GitCredentialManager.Diagnostics.CredentialStoreDiagnostic.RunInternalAsync(StringBuilder log, IList`1 additionalFiles)
+   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential...Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\zjink\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\zjink\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+

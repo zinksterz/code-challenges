@@ -1,4 +1,4 @@
-﻿Diagnose log at 2024-09-17T20:01:34Z
+﻿Diagnose log at 2024-09-17T20:12:10Z
 
 AppPath: D:\Program Files\Git\mingw64\bin\git-credential-manager.exe
 InstallDir: D:\Program Files\Git\mingw64\bin\
@@ -61,7 +61,7 @@ MSYS=disable_pcon
 PATH=D:/Program Files/Git/mingw64/libexec/git-core;C:\Users\zjink\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\local\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\zjink\bin;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\dotnet;C:\Users\zjink\AppData\Local\Programs\Python\Python39\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;D:\ProgrammingStuff;C:\ProgramData\chocolatey\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Amazon\AWSCLIV2;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Users\paher\Desktop\VideoGameDataTracker\venv\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\130\Tools\Binn;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\WINDOWS\Syst;C:\Users\zjink\AppData\Local\Microsoft\WindowsApps;C:\Users\zjink\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\zjink\.dotnet\tools;C:\Users\zjink\AppData\Roaming\npm;D:\Program Files\Git\usr\bin\vendor_perl;D:\Program Files\Git\usr\bin\core_perl
 ChocolateyInstall=C:\ProgramData\chocolatey
 QT_SCALE_FACTOR_ROUNDING_POLICY=RoundPreferFloor
-GIT_TRACE2_PARENT_SID=e9ee23e0-87fb-4b11-bb15-d2a870b3d9a3
+GIT_TRACE2_PARENT_SID=74601fba-7846-446b-bdbf-443f83cffc64
 PKG_CONFIG_SYSTEM_LIBRARY_PATH=D:/Program Files/Git/mingw64/lib
 TMPDIR=C:\Users\zjink\AppData\Local\Temp
 TMP=C:\Users\zjink\AppData\Local\Temp
@@ -77,6 +77,7 @@ USERDOMAIN_ROAMINGPROFILE=INKSTERPC
 CommonProgramW6432=C:\Program Files\Common Files
 HOMEDRIVE=C:
 MSYSTEM_PREFIX=D:/Program Files/Git/mingw64
+OLDPWD=C:/Users/zjink
 MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
 SESSIONNAME=Console
 PWD=D:/CodeProjects/PracticeProblems
@@ -102,9 +103,9 @@ Exception: None
 Log:
 Temporary directory is 'C:\Users\zjink\AppData\Local\Temp\'...
 Checking basic file I/O...
-Writing to temporary file 'C:\Users\zjink\AppData\Local\Temp\307f4e37874290eab72a3b65'... OK
-Reading from temporary file 'C:\Users\zjink\AppData\Local\Temp\307f4e37874290eab72a3b65'... OK
-Deleting temporary file 'C:\Users\zjink\AppData\Local\Temp\307f4e37874290eab72a3b65'... OK
+Writing to temporary file 'C:\Users\zjink\AppData\Local\Temp\514c4ee5a3df4953a7c50f7f'... OK
+Reading from temporary file 'C:\Users\zjink\AppData\Local\Temp\514c4ee5a3df4953a7c50f7f'... OK
+Deleting temporary file 'C:\Users\zjink\AppData\Local\Temp\514c4ee5a3df4953a7c50f7f'... OK
 Testing IFileSystem instance...
 UserHomePath: C:\Users\zjink
 UserDataDirectoryPath: C:\Users\zjink\.gcm
@@ -123,7 +124,7 @@ Sending HEAD request to http://example.com...Sending HEAD request to https://exa
  OK
 Acquiring free TCP port... OK
 Testing local HTTP loopback connections...
-Creating new HTTP listener for http://localhost:52346/... OK
+Creating new HTTP listener for http://localhost:52412/... OK
 Waiting for loopback connection... OK
 Writing response... OK
 Waiting for response data... OK
@@ -159,6 +160,7 @@ file:C:/Users/zjink/.gitconfig	user.name=zinksterz
 file:C:/Users/zjink/.gitconfig	user.email=zehngameplay@gmail.com
 file:C:/Users/zjink/.gitconfig	credentials.helper=manager-core
 file:C:/Users/zjink/.gitconfig	credential.helper=manager-core
+file:C:/Users/zjink/.gitconfig	credential.manager=user.name
 file:.git/config	core.repositoryformatversion=0
 file:.git/config	core.filemode=false
 file:.git/config	core.bare=false
@@ -176,18 +178,13 @@ file:.git/config	branch.main.merge=refs/heads/main
 ------------
 Diagnostic: Credential storage
 Skipped: False
-Success: False
-Exception:
-GitCredentialManager.Interop.InteropException: Failed to write item to store. ---> System.ComponentModel.Win32Exception: Not enough memory resources are available to process this command
-   --- End of inner exception stack trace ---
-   at GitCredentialManager.Interop.Windows.Native.Win32Error.ThrowIfError(Int32 error, String defaultErrorMessage, ITrace2 trace2)
-   at GitCredentialManager.Interop.Windows.WindowsCredentialManager.AddOrUpdate(String service, String account, String secret)
-   at GitCredentialManager.CredentialStore.AddOrUpdate(String service, String account, String secret)
-   at GitCredentialManager.Diagnostics.CredentialStoreDiagnostic.RunInternalAsync(StringBuilder log, IList`1 additionalFiles)
-   at GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Success: True
+Exception: None
 Log:
 ICredentialStore instance is of type: CredentialStore
-Writing test credential...Deleting test credential... OK
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
 
 ------------
 Diagnostic: Microsoft authentication (AAD/MSA)
